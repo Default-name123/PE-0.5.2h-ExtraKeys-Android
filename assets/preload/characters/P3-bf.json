@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing_Left_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing_Down_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing_Up_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing_Right_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				56
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left_Miss_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down_Miss_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				130
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up_Miss_Flip",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right_Miss_Flip"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/P3_BF",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Triple Trouble", "xenophanes", [31, 9, 61]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

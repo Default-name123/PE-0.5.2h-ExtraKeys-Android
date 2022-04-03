@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-30,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Majin Reveal Windup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Majin BF Reveal"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/endless_bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
